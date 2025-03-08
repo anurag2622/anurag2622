@@ -4,7 +4,10 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=anurag2622&label=Profile%20views&color=0e75b6&style=flat" alt="anurag2622" />
 </p>
-<h3 align="center">Hello there! I'm Anurag Pannu, a passionate Cyber Security Student. My journey in the tech world began with a fascination for how things work behind the scenes. This curiosity led me to delve into coding, and since then, I've been on an exciting adventure, learning and building amazing projects. When I'm not coding, you can find me exploring new technologies. I'm always eager to take on new challenges and collaborate with like-minded individuals. Let's connect and create something awesome together! 🌟</h3>
+<h3 align="center">👋 Hi, I’m Anurag! I'm passionate about data analytics, business intelligence, and automation.
+💻 Skilled in Python, R, SQL, Power BI, and Machine Learning
+📊 I love working with data—cleaning, visualizing, and extracting insights!
+🚀 Check out my projects: Water Surface Cleaning Robot, Handwritten Text Recognition, Railway Management System</h3>
 
 <p align="right">
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/6201/screenshots/4809312/output_b3543c.gif">
