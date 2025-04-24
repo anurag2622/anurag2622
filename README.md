@@ -1,14 +1,12 @@
-
-
 <h1 align="center">Hi 👋, I'm Anurag Pannu</h1>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=anurag2622&label=Profile%20views&color=0e75b6&style=flat" alt="anurag2622" />
 </p>
-<h3 align="center">👋 Hi, I'm Anurag — passionate about discovering insights through data.
-📊 Skilled in Python, SQL, Excel, Power BI, and Tableau
-📈 Love cleaning messy data, building dashboards, and uncovering trends
-📚 Always learning — currently exploring Machine Learning & Big Data
-💡 Let’s connect and collaborate on data-driven projects!
+<h3 align="center">👋 Hi, I'm Anurag — passionate about uncovering insights from data.
+📊 Skilled in Python, SQL, Power BI, Advanced Excel, and Machine Learning
+📈 Experienced in data cleaning, building interactive dashboards, and deriving meaningful trends
+📚 Continuously learning — currently diving deeper into DALL·E 2 and ChatGPT for automation and data visualization
+💡 Let’s connect and collaborate on data-driven solutions!
 🚀 Check out my Projects</h3>
 
 <p align="right">
@@ -18,7 +16,6 @@
 <p align="center">
   <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/82/7d/c9/827dc9a71dab3da12a0ed7d2e0d78ee4.gif" alt="MasterHead">
 </p>
-
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anurag2622" alt="anurag2622" /></a>
@@ -32,17 +29,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/></a>
+  <a href="https://www.excelcampus.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Excel_logo_%282019%29.svg" alt="excel" width="40" height="40"/></a>
+  <a href="https://openai.com/dall-e" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/DALL%C2%B7E_2_logo.svg" alt="dalle2" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/SQL_Logo.svg" alt="SQL" width="40" height="40"/></a>
+  <a href="https://chat.openai.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ChatGPT_logo.svg" alt="ChatGPT" width="40" height="40"/></a>
 </p>
 
 <p align="center">
