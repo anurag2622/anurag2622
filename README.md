@@ -3,12 +3,12 @@
   <img src="https://komarev.com/ghpvc/?username=anurag2622&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="center">
-  Hi, I'm Anurag — passionate about uncovering insights from data.<br>
-  📊 Skilled in Python, SQL, Power BI, Advanced Excel, and Machine Learning.<br>
-  📈 Experienced in data cleaning, building interactive dashboards, and deriving meaningful trends.<br>
-  📚 Continuously learning — currently diving deeper into DALL·E 2 and ChatGPT for automation and data visualization.<br>
-  💡 Let’s connect and collaborate on data-driven solutions!<br>
+<h3 align="left">
+  Hi, I'm Anurag — passionate about uncovering insights from data. <br>
+  📊 Skilled in Python, SQL, Power BI, Advanced Excel, and Machine Learning. <br>
+  📈 Experienced in data cleaning, building interactive dashboards, and deriving meaningful trends. <br>
+  📚 Continuously learning — currently diving deeper into DALL·E 2 and ChatGPT for automation and data visualization. <br>
+  💡 Let’s connect and collaborate on data-driven solutions! <br>
   🚀 Check out my Projects below
 </h3>
 
