@@ -4,10 +4,12 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=anurag2622&label=Profile%20views&color=0e75b6&style=flat" alt="anurag2622" />
 </p>
-<h3 align="center">👋 Hi, I’m Anurag! I'm passionate about data analytics, business intelligence, and automation.
-💻 Skilled in Python, R, SQL, Power BI, and Machine Learning
-📊 I love working with data—cleaning, visualizing, and extracting insights!
-🚀 Check out my projects: Water Surface Cleaning Robot, Handwritten Text Recognition, Railway Management System</h3>
+<h3 align="center">👋 Hi, I'm Anurag — passionate about discovering insights through data.
+📊 Skilled in Python, SQL, Excel, Power BI, and Tableau
+📈 Love cleaning messy data, building dashboards, and uncovering trends
+📚 Always learning — currently exploring Machine Learning & Big Data
+💡 Let’s connect and collaborate on data-driven projects!
+🚀 Check out my Projects</h3>
 
 <p align="right">
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/6201/screenshots/4809312/output_b3543c.gif">
