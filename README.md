@@ -68,9 +68,9 @@
 </td>
 <td width="50%">
 
-**[Excel Analytics](https://github.com/anurag2622/Excel-Data-Analytics)**
-<br/>Business analytics dashboards with pivot tables, dynamic charts, VLOOKUP, and advanced formulas
-<br/>`Excel`
+**[ML Classification Models](https://github.com/anurag2622/NeuroNexus)**
+<br/>Classification models with feature engineering, cross-validation, and performance benchmarking
+<br/>`Python` `Scikit-learn` `Pandas`
 
 </td>
 </tr>
@@ -84,9 +84,9 @@
 </td>
 <td width="50%">
 
-**[ML Classification Models](https://github.com/anurag2622/NeuroNexus)**
-<br/>Classification models with feature engineering, cross-validation, and performance benchmarking
-<br/>`Python` `Scikit-learn` `Pandas`
+**[Portfolio Dashboard](https://github.com/anurag2622/Portfolio)**
+<br/>Interactive analytics-style portfolio with dark/light mode, skill tiles, and certificate viewer
+<br/>`HTML` `CSS` `JavaScript`
 
 </td>
 </tr>
