@@ -102,7 +102,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anurag2622&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anurag2622&theme=tokyonight&hide_border=true&background=0D1117" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=anurag2622&theme=tokyonight&hide_border=true&background=0D1117" height="170" />
 </p>
 
 <p align="center">
