@@ -1,108 +1,66 @@
-<h1 align="center">Hi 👋, I'm Anurag Pannu</h1>
+<h1 align="center">Anurag Pannu</h1>
+<h3 align="center">Developer at Wipro | Data Analytics | Python | AI</h3>
+
+<p align="center">
+  <a href="https://anurag2622.github.io/Portfolio/">Portfolio</a> &bull;
+  <a href="https://linkedin.com/in/anuragpannu201984">LinkedIn</a> &bull;
+  <a href="mailto:anuragpannu1126a@gmail.com">Email</a>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anurag2622&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">
-  Hi, I'm Anurag — passionate about uncovering insights from data. <br>
-  📊 Skilled in Python, SQL, Power BI, Advanced Excel, and Machine Learning. <br>
-  📈 Experienced in data cleaning, building interactive dashboards, and deriving meaningful trends. <br>
-  📚 Continuously learning — currently diving deeper into DALL·E 2 and ChatGPT for automation and data visualization. <br>
-  💡 Let’s connect and collaborate on data-driven solutions! <br>
-  🚀 Check out my Projects below
-</h3>
+---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Data Analysis Coding GIF">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="400" alt="Analytics Visualization GIF">
+### About
+
+- Developer (Python for Data Science) at **Wipro Limited**, Bangalore
+- B.E. Computer Engineering — **Thapar Institute of Engineering & Technology**
+- Building AI-driven solutions for workflow automation, Power BI reporting, and data analytics
+- 10+ certifications including **Google Data Analytics**, **AI Engineering**, and **Claude AI Pro**
+
+---
+
+### Tech Stack
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" title="Python">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" title="MySQL">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" title="Pandas">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" title="NumPy">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" title="TensorFlow">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36" title="PyTorch">&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="36" title="Power BI">&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="36" title="Excel">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" title="GitHub">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="36" title="Arduino">
 </p>
 
 ---
 
-<h2 align="center">🚀 Projects Portfolio</h2>
+### Projects
 
-### 💡 Capstone Project: Water Surface Cleaner (Patent in Process)
-- Developed a fully functional prototype for water surface cleaning.
-- Features both autonomous and manual operation.
-- Integrated solar power system and ultrasonic sensors for obstacle detection.
-- Ongoing: Android app interface development for wireless control.
-- 🔧 Tech Stack: Arduino, Servo Motors, Ultrasonic Sensors, Solar Panels, Android Studio.
-
----
-
-### 📊 Power BI Dashboards — *Explore Projects*
-- Built interactive dashboards for business analytics.
-- Integrated data from Excel, SQL databases, and Web APIs.
-- Used **Power Query** and **DAX** for dynamic data transformation and calculations.
-- Implemented drill-downs, KPIs, and real-time filtering for user insights.
-- 🔧 Tech Stack: Power BI, SQL, Excel, Web APIs.
+| Project | Description | Tech |
+|---------|------------|------|
+| [Power BI Dashboards](https://github.com/anurag2622/BI-Dashboards-Portfolio) | Interactive dashboards with drill-downs, KPIs, and real-time filtering | Power BI, DAX, Power Query |
+| [Python & ML Projects](https://github.com/anurag2622/ML-Portfolio-Python) | CNN digit recognition, Railway Management System, data pipelines | Python, TensorFlow, OpenCV |
+| [SQL Essentials](https://github.com/anurag2622/SQL-Essentials-and-Projects) | 50+ problems covering joins, window functions, ranking, optimization | MySQL |
+| [Excel Analytics](https://github.com/anurag2622/Excel-Data-Analytics) | Dashboards with pivot tables, VLOOKUP, advanced formulas | Excel |
+| [Water Surface Cleaner](https://github.com/anurag2622/Autonomous-Water-Surface-Cleaner) | Solar-powered autonomous robot with sensor integration | Arduino, Android |
+| [Titanic Prediction](https://github.com/anurag2622/NeuroNexus) | Survival prediction using machine learning | Python, ML |
 
 ---
 
-### 🗃️ SQL Projects — *Hands-On SQL Practice*
-- Solved the top 50+ industry SQL challenges involving:
-  - Complex Joins
-  - Window Functions
-  - Ranking & Filtering
-- Focused on writing optimized, scalable SQL queries.
-- 🔧 Tech Stack: MySQL, PostgreSQL, BigQuery.
-
----
-
-### 📈 Excel Analytics — *Excel Analytics Portfolio*
-- Created Excel dashboards using:
-  - VLOOKUP, INDEX-MATCH
-  - Pivot Tables, Slicers, Data Validation
-  - Conditional Formatting & Advanced Formulas
-- Delivered real-time business reporting and summaries.
-- 🔧 Tech Stack: Microsoft Excel, VBA (basic), Power Query.
-
----
-
-### 🤖 Python & ML Projects — *ML Project Repository*
-- Built a **Railway Management System** powered by SQL for seamless ticketing.
-- Created a **Handwritten Digit Classifier** using:
-  - TensorFlow + CNN + OpenCV
-  - Achieved high accuracy using MNIST dataset.
-- 🔧 Tech Stack: Python, TensorFlow, OpenCV, SQL, Streamlit (basic).
-
----
+### GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anurag2622&theme=dracula" alt="Trophies" />
-  </a>
-</p>
-
----
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/anurag-pannu-896690227" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/_anurag_17_" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="30" width="30" />
-  </a>
-</p>
-
----
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40" alt="Power BI"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="40" alt="Excel"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/3291/3291695.png" width="40" alt="DALL·E 2"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="40" alt="SQL"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/3416/3416074.png" width="40" alt="ChatGPT"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anurag2622&show_icons=true&theme=tokyonight&hide_border=true" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag2622&layout=compact&theme=tokyonight&hide_border=true" height="160">
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag2622&layout=compact&theme=radical" alt="Top Languages">
+  <a href="https://anurag2622.github.io/Portfolio/">View My Portfolio</a>
 </p>
