@@ -11,8 +11,6 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag2622&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="320" />
-
 ### About Me
 
 - **Developer** at **Wipro Limited**, Bangalore — Python, Power BI, Data Engineering
@@ -20,8 +18,6 @@
 - 2+ years building enterprise data solutions — semantic model migrations, automated reporting, cache optimization
 - **10+ certifications** — Google Data Analytics, AI Engineering, Claude AI Pro
 - Currently building a **Microsoft Fabric workload app** that auto-generates dashboards using LLMs
-
-<br clear="right"/>
 
 ---
 
@@ -95,19 +91,6 @@
 </td>
 </tr>
 </table>
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anurag2622&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" height="170" />
-  <img src="https://streak-stats.demolab.com/?user=anurag2622&theme=tokyonight&hide_border=true&background=0D1117" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anurag2622&theme=tokyonight&no-frame=true&column=6&margin-w=10" />
-</p>
 
 ---
 
